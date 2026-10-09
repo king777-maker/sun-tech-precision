@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <rect width="200" height="80" rx="8" fill="#F8F9FA" stroke="#E9ECEF" stroke-width="2"/>
+  <path d="M30 40 Q45 20 60 40 Q45 60 30 40 Z" fill="#05264E"/>
+  <circle cx="45" cy="40" r="6" fill="#FF5E14"/>
+  <text x="70" y="44" font-family="'Rubik', sans-serif" font-weight="700" font-size="14" fill="#05264E">OPTIC NETWORKS</text>
+  <text x="70" y="58" font-family="'Open Sans', sans-serif" font-weight="600" font-size="9" fill="#FF5E14" letter-spacing="1">TELECOM</text>
+</svg>

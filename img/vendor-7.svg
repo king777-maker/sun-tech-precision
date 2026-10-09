@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <rect width="200" height="80" rx="8" fill="#F8F9FA" stroke="#E9ECEF" stroke-width="2"/>
+  <polygon points="45,22 51,36 65,36 54,45 58,59 45,50 32,59 36,45 25,36 39,36" fill="#05264E"/>
+  <circle cx="45" cy="40" r="5" fill="#FF5E14"/>
+  <text x="72" y="44" font-family="'Rubik', sans-serif" font-weight="700" font-size="14" fill="#05264E">ARMOR DYNAMICS</text>
+  <text x="72" y="58" font-family="'Open Sans', sans-serif" font-weight="600" font-size="9" fill="#FF5E14" letter-spacing="1">DEFENCE TECH</text>
+</svg>
