@@ -721,6 +721,32 @@ h6,
     box-shadow: none;
 }
 
+.footer-cert-badge {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    padding: 10px 14px;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+    backdrop-filter: blur(4px);
+    max-width: 220px;
+    margin-bottom: 1rem;
+}
+
+.footer-cert-badge:hover {
+    background: rgba(255, 94, 20, 0.1);
+    border-color: var(--primary);
+    box-shadow: 0 4px 15px rgba(255, 94, 20, 0.2);
+    transform: translateY(-2px);
+}
+
+.footer-cert-badge img {
+    height: 42px;
+    width: auto;
+    display: block;
+}
+
 .copyright {
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
